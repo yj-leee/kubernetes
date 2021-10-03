@@ -27,9 +27,9 @@
 ## 쿠버네티스 배포 종류
 
 **관리형 쿠버네티스**
-Amazon Elastic Kubernetes Service (EKS) 
-Azure Kubernetes Service (AKS) 
-Google Kubernetes Engins (GKE)    
+Amazon Elastic Kubernetes Service (EKS)  
+Azure Kubernetes Service (AKS)  
+Google Kubernetes Engins (GKE)     
 
 **설치형 쿠버네티스**
 openshift  
